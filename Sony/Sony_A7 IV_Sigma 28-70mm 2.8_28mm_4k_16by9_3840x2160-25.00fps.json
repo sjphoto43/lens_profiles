@@ -1,5 +1,5 @@
 {
-  "name": "Sony_A7 IV_Sigma 28-70mm 2.8_28mm_4k_16by9_3840x2160-25.00fps",
+  "name": "Sony_A7 IV_Sigma 28-70mm 2.8_28mm_4k_16by9_1080x1920-25.00fps",
   "note": "28mm",
   "calibrated_by": "gadas",
   "camera_brand": "Sony",
@@ -7,16 +7,16 @@
   "lens_model": "Sigma 28-70mm 2.8",
   "camera_setting": "",
   "calib_dimension": {
-    "w": 3840,
-    "h": 2160
+    "w": 1080,
+    "h": 1920
   },
   "orig_dimension": {
-    "w": 3840,
-    "h": 2160
+    "w": 1080,
+    "h": 1920
   },
   "output_dimension": {
-    "w": 3840,
-    "h": 2160
+    "w": 1080,
+    "h": 1920
   },
   "frame_readout_time": 40.0,
   "gyro_lpf": null,
